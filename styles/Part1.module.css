@@ -1,0 +1,80 @@
+.brazo {
+  position: absolute;
+  left: 40px;
+  top: -10px;
+}
+
+.container {
+  width: 100vw;
+  position: relative;
+  
+}
+
+.containerflex {
+  padding-top: 59px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  color: #4D4D4D;
+  padding-bottom: 40px;
+}
+
+.gridcontainer {
+  display: grid;
+  width: 85vw;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: 
+  'arriba arriba'
+  'article texts';
+}
+
+.tecnologia {
+  grid-area: arriba;
+  width: fit-content;
+  padding: 12px 50px 9px 50px;
+  border-radius: 15px 15px 0 0;
+  background: #999999;
+  color: white;
+  font-size: 20px;
+}
+
+.divGris {
+  grid-area: article;
+  width: 100%;
+  background-color: #F4F4F4;
+  border-radius: 0 0 0 10px;
+  height: 528px;
+  white-space: pre-wrap;
+}
+
+.texts {
+  grid-area: texts;
+  max-width: 100%;
+}
+
+.flexArtc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 78px;
+  margin-left: 32px;
+}
+
+.flexArtc button {
+  background: #5568F4;
+  padding: 12px 90px;
+  border: none;
+  border-radius: 24px;
+  width: fit-content;
+  font-size: 20px;
+  color: white;
+}
+
+.brazo1 {
+  position: absolute;
+  bottom: -70px;
+  right: 110px
+}

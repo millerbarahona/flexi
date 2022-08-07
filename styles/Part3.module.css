@@ -1,0 +1,60 @@
+.container {
+  color: #4D4D4D;
+  position: relative;
+  padding-bottom: 244px;
+  padding-top: 212px;
+}
+
+.container h3 {
+  font-size: 51px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 60px;
+}
+
+.grid {
+  display: grid;
+  margin: 0 10vw;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid div div{
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  max-width: 300px;
+  margin: auto;
+}
+
+.category {
+  background-color: #797979;
+  color: white;
+  width: fit-content;
+  border-radius: 14px 14px 0 0;
+  margin: auto;
+}
+
+.category h2 {
+  margin: 10px 30px;
+}
+
+.column {
+  background-color: #F4F4F4;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.float{
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  bottom: 0;
+}
+
+.bottle {
+  position: absolute;
+  z-index: -1;
+  left: 15px;
+  top: 15px;
+}

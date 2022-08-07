@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="700" viewBox="0 0 480 700">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_565" data-name="Rectángulo 565" width="480" height="568" transform="translate(480 562) rotate(180)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_3456" data-name="Grupo 3456" transform="translate(-800 -100)">
+    <g id="Grupo_2577" data-name="Grupo 2577" transform="translate(-117.329 -20)">
+      <g id="Grupo_2576" data-name="Grupo 2576" transform="translate(917.329 126)" clip-path="url(#clip-path)">
+        <g id="Grupo_2575" data-name="Grupo 2575" transform="translate(-318.897 77.903)">
+          <rect id="Rectángulo_563" data-name="Rectángulo 563" width="798.897" height="16.585" transform="translate(0 58.683)" fill="#5568f4" opacity="0.14"/>
+          <rect id="Rectángulo_562" data-name="Rectángulo 562" width="798.897" height="12.032" transform="translate(0 202.917)" fill="#5568f4" opacity="0.14"/>
+          <path id="Trazado_4106" data-name="Trazado 4106" d="M800,481.009V464.423h798.9v-1.08H800v18.746h798.9v-1.08Z" transform="translate(-800 -203.903)" fill="#fff" opacity="0.07"/>
+          <path id="Trazado_4107" data-name="Trazado 4107" d="M800,279.171V262.585h798.9v-1.08H800v18.746h798.9v-1.08Z" transform="translate(-800 -203.903)" fill="#fff" opacity="0.07"/>
+          <path id="Trazado_4108" data-name="Trazado 4108" d="M800,418.853V406.806h798.9v-1.08H800v14.206h798.9v-1.08Z" transform="translate(-800 -203.903)" fill="#fff" opacity="0.07"/>
+          <path id="Trazado_4109" data-name="Trazado 4109" d="M1598.9,217.016H800V204.983h798.9V203.9H800V218.1h798.9Z" transform="translate(-800 -203.903)" fill="#fff" opacity="0.07"/>
+          <rect id="Rectángulo_564" data-name="Rectángulo 564" width="798.897" height="1.08" transform="translate(0 412.099)" fill="#fff" opacity="0.07"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_4232" data-name="Trazado 4232" d="M0,0H480V132H0Z" transform="translate(800 668)" fill="#4b5cd8"/>
+  </g>
+</svg>

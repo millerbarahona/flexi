@@ -1,0 +1,61 @@
+.container {
+  background-color: #5568F4;
+  background: url("/images/loading/Grupo 2574.svg"), url("/images/loading/Grupo 3456.svg"), #5568F4;
+  background-position: top left, top right;
+  background-repeat: no-repeat;
+  background-size: 62.5vw, 37.5vw ;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.container h1 {
+  font-size: 64px;
+  margin: 0;
+}
+
+.logoContainer {
+  margin-left: 72px;
+  padding: 0 15px 5px 15px;
+  background-color: white;
+  width: fit-content;
+  border-radius: 0 0 24px 24px;
+  z-index: 100;
+}
+
+.logo {
+  width: 183px;
+  height: 70px;
+}
+
+.door {
+  width: 62.5vw;
+  z-index: -1;
+}
+
+.rest {
+  width: 37.5vw;
+  z-index: -1;
+}
+
+.character {
+  position: absolute;
+  bottom: 0;
+  right: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.texts {
+  position: absolute;
+  right: 72px;
+  max-width: 467px ;
+  font-weight: 800;
+}
+
+.texts p {
+  margin: 0;
+  font-weight: 300;
+  font-size: 22px;
+}
